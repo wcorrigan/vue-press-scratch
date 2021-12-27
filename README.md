@@ -1,2 +1,3 @@
-# vue-press-scratch
-just testing
+# Wecome to Scratchs.com 
+
+We hope you love this tiny tiny site.

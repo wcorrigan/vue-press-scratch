@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "vuepress": "^1.9.5"
+  },
+  "name": "vuepress",
+  "version": "1.0.0",
+  "description": "test site",
+  "main": "index.js",
+  "repository": "https://github.com/wcorrigan/vue-press-scratch.git",
+  "author": "Bill Corrigan <5141718+wcorrigan@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false
+}
